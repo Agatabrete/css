@@ -23,9 +23,13 @@ body{
     color:#fff;
     padding: 40px;
 }
+.nav{
+    background-color: #000;
+    line-height: 50px;
+}
 
-h1, h2{
-    font-weight: 400;
+.nav a{
+    color: #fff;
 }
 
 /*content*/
@@ -35,6 +39,18 @@ h1, h2{
 
 .content img{
     width: 100%;
+}
+
+.content ul{
+    padding-left: 60px;
+}
+
+h1, h2{
+    font-weight: 400;
+    margin: 10px 0;
+}
+p{
+    margin: 10px 0;
 }
 
 /*footer*/
@@ -47,6 +63,7 @@ h1, h2{
 .footer a{
     color: #fff;
     text-decoration: none;
+    line-height: 60px;
 }
 
 .footer a:hover{
