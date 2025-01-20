@@ -21,12 +21,23 @@ body{
 .header{
     background-color: #565656;
     color:#fff;
+    padding: 40px;
+}
+
+h1, h2{
+    font-weight: 400;
 }
 
 /*content*/
+.content{
+    padding: 40px;
+}
 
 .content img{
     width: 100%;
 }
 
 /*footer*/
+.footer{
+    padding: 40px;
+}
