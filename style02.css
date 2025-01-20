@@ -1,0 +1,29 @@
+/*global*/
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: #ededed;
+}
+
+.container{
+    background-color: #fff;
+    max-width: 1200px;
+    margin:auto;
+}
+
+
+
+/*header*/
+
+.header{
+    background-image: -webkit-image-set();
+}
+
+.header h1{
+    font-weight: 400;
+    line-height: 120px;
+}
