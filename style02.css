@@ -20,10 +20,42 @@ body{
 /*header*/
 
 .header{
-    background-image: -webkit-image-set();
+    background-image:url(download.jpg);
+    height: 120px;
 }
 
 .header h1{
     font-weight: 400;
     line-height: 120px;
+    font-size: 2.2rem;
+    color: #fff;
+    padding-left: 40px;
+}
+
+.nav{
+    background-image:url(download.jpg);
+
+
+}
+
+.nav a{
+    color:#fff;
+    padding-left: 40px;
+    height: 50px;
+    text-decoration: none;
+
+}
+
+.slogan{
+    color: #fff;
+    font-size: 1.1rem;
+    height: 50px;
+}
+
+
+/*footer*/
+
+.footer{
+    height: 40px;
+    line-height: 17px;
 }
