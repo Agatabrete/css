@@ -73,11 +73,21 @@ body{
 .content p{
     line-height: 1.8;
     padding: 17px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 60px;
+
 
 }
 
 
 /*pictures*/
+
+.pictures img{
+    max-width: 100%;
+}
 
 .pictures h2{
     font-size: 1.3rem;
